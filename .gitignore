@@ -68,7 +68,8 @@ instance/
 # Scrapy stuff:
 .scrapy
 #Database Connector
-datase.py
+database.py
+
 # Sphinx documentation
 docs/_build/
 
@@ -217,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#idea xml
+.idea/dataSources
+.idea/workspace.xml
